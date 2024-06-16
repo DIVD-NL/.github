@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Welcome to the Github repositories of DIVD.  
+
+We have multiple websites hosted on github.  
+
+https://www.divd.nl/  
+https://the.divd.academy/  
+https://www.divd.club/  
+https://csirt.divd.nl/  
+
 <!--
 
 **Here are some ideas to get you started:**
