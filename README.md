@@ -1,3 +1,3 @@
 # .github repository DIVD-NL
 
-THis repository controls what the public profile of DIVD looks like.
+This repository controls what the public GitHub profile of DIVD looks like.
